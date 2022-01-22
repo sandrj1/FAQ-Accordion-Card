@@ -187,7 +187,7 @@ article h1 {
         align-items: flex-start;
         width: 75%;
         margin: 12vh auto 12vh;
-        background-image: url("./images/bg-pattern-desktop.svg");
+        background-image: url("images/bg-pattern-desktop.svg");
         background-repeat: no-repeat;
         background-position-y: -22em;
         background-position-x: -48.5em;
