@@ -1,5 +1,3 @@
-var body = document.getElementsByTagName("body")[0];
-var boxes = document.getElementsByClassName("box");
 var accordion = document.getElementsByClassName("box__question");
 var i;
 var hideAnswer = true;
