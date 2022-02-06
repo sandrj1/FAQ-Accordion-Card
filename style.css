@@ -178,9 +178,9 @@ article h1 {
 }
 
 @media screen and (min-width: 1024px){
-    body {
+    /* body {
         min-height: 100vh;
-    }
+    } */
     .container {
         display: flex;
         flex-direction: row;
@@ -253,15 +253,4 @@ article h1 {
     .box__answer p {
         font-size: 1.15em;
     }
-}
-
-/* Attribution */
-
-.attribution {
-    padding-bottom: 2em;
-    color: var(--dark-blue);
-}
-
-.attribution a:active {
-    color: white;
 }
